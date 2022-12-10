@@ -1,3 +1,6 @@
+DEPRECATED: The frontend is merged into the backend repo at
+https://github.com/blindernuka/billett
+
 # UKA på Blindern's ticket system (frontend)
 
 More details about this system is available at:
